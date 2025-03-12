@@ -3,3 +3,4 @@ battery_merged.json
 battery.csv
 battery.db
 battery.json
+catboost_info/*
